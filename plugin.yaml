@@ -1,0 +1,7 @@
+name: lancedb-pro
+version: 1.0.0
+description: "LanceDB-backed memory with hybrid retrieval (Vector + BM25), cross-encoder reranking, Weibull decay, and auto-capture — Python port of memory-lancedb-pro."
+pip_dependencies:
+  - lancedb
+  - rank_bm25
+  - httpx
